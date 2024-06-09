@@ -12,6 +12,11 @@ public class solarSystem {
         xros.color = "pink";
         xros.temp = "24324kv";
         xros.size = "0km";
+
+        planet1 earth = new planet1();
+        earth.color = "blue and green";
+        earth.size = "7926m";
+        earth.radius = "3958m";
     }
 
 }
