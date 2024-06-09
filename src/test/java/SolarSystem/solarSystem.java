@@ -17,6 +17,11 @@ public class solarSystem {
         earth.color = "blue and green";
         earth.size = "7926m";
         earth.radius = "3958m";
+
+        planet2 mars = new planet2();
+        mars.color = "orange";
+        mars.radius = "4000m";
+        mars.size = "8000m";
     }
 
 }
